@@ -1,4 +1,4 @@
-#ASP.NET Web Forms CSV Parser
+## ASP.NET Web Forms CSV Parser
 
 ## Description
 A simple ASP.NET Web Forms application that parses a CSV file and displays its content on a new page. The application allows the user to view CSV file data in a tabular format.
@@ -20,11 +20,11 @@ A simple ASP.NET Web Forms application that parses a CSV file and displays its c
 3. **Example file**
    'Test.csv' is located in 'Content/' folder
 
-##Technologies
+## Technologies
 - ASP.NET Web Forms
 - C#
 - ML/CSS
 
-##Author
+## Author
 Adam
 
